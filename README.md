@@ -58,3 +58,4 @@ checkpoint = {
 If you feel like contributing, then welcome! Fork -> Clone -> Make Changes -> Pull request.
 
 # License
+Licensed under the terms in [LICENSE](LICENSE).
