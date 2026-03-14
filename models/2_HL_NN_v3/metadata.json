@@ -1,0 +1,10 @@
+{
+    "model_type": "2_HL_NN_v3",
+    "test_accuracy": 97.5,
+    "train_accuracy": 99.81833333333333,
+    "final_train_loss": 0.009459313936198182,
+    "epochs": 100,
+    "batch_size": 50,
+    "learning_rate": 0.001,
+    "optimizer": "Adam"
+}
